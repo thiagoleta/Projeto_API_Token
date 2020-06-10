@@ -1,0 +1,9 @@
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.runtimeconfig.json
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.runtimeconfig.dev.json
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+D:\ProjetoColeTrans\Projeto.Api.Base\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
